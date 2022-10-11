@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BitFit.2</string>
+    <string name="food_type">Enter food </string>
+    <string name="calories_amt">Enter calories</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
